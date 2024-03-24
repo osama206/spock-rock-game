@@ -1,7 +1,7 @@
 # Rock Paper Scissors Lizard Spock Game
 
 ## Description
-This repository contains the source code for a web-based game called "Rock Paper Scissors Lizard Spock". It is a variation of the classic Rock Paper Scissors game, with the addition of two more options: Lizard and Spock.
+This repository contains the source code for a web-based game called "Rock Paper Scissors Lizard Spock". It is a variation of the classic Rock Paper Scissors game, with the addition of two more options: Lizard and Spock, real-time score tracking, and engaging visual effects such as confetti animation.
 
 ## Features
 - Classic Rock Paper Scissors gameplay with additional choices.
