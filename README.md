@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 After cloning the repository and navigating to the project directory, you can open the `index.html` file in a web browser to play the game. Simply click on the icon representing your choice (Rock, Paper, Scissors, Lizard, or Spock) to make your selection. The game will then display the computer's choice and determine the winner of the round.
 
 ## Demo
-You can play a live demo of the game hosted on GitHub Pages [here](https://osama206.github.io/rock-paper-scissors-lizard-spock).
+You can play a live demo of the game hosted on GitHub Pages [here](https://osama206.github.io/spock-rock-game).
 
 ## Files Included
 - `index.html`: HTML file containing the structure of the game interface.
