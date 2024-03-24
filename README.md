@@ -13,11 +13,11 @@ This repository contains the source code for a web-based game called "Rock Paper
 To get started with this project, follow these steps:
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/osama206/rock-paper-scissors-lizard-spock.git
+   git clone https://github.com/osama206/spock-rock-game.git
    ```
 2. Navigate to the project directory using the following command:
    ```
-   cd rock-paper-scissors-lizard-spock
+   cd spock-rock-game
    ```
 
 ## Usage
