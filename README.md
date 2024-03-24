@@ -42,7 +42,7 @@ You can play a live demo of the game hosted on GitHub Pages [here](https://osama
 
 - **[W3Schools](https://www.w3schools.com/js/js_switch.asp)**: Reference for JavaScript switch statement. W3Schools provides comprehensive tutorials and references for web development technologies, including JavaScript.
 
-- **[YouTube Tutorial](https://www.youtube.com/watch?v=405Nh2H4Ucg)**: Tutorial on implementing confetti animation. YouTube tutorials offer step-by-step guides and demonstrations on various programming and web development topics.
+- **[YouTube Explanation](https://www.youtube.com/watch?v=405Nh2H4Ucg)**: Explanation of Rock Paper Scissors Lizard Spock from The Big Bang Theory.
 
 - **[CSS Script](https://www.cssscript.com/confetti-falling-animation/)**: Source of the confetti animation library. CSS Script provides a collection of free and open-source CSS animations and effects that can be easily incorporated into web projects.
 
